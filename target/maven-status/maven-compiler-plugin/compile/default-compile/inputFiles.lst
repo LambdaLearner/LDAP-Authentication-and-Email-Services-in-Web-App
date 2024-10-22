@@ -1,0 +1,15 @@
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/SpringThymeleafTemplateApplication.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/repository/AddressRepository.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/service/StudentService.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/config/MailConfig.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/dto/StudentResponseDTO.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/entity/Address.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/dto/UpdateStudentDTO.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/controller/IndexController.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/repository/StudentRepository.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/controller/StudentController.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/dto/mapper/StudentMapper.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/dto/CreateStudentDTO.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/entity/Student.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/controller/ExceptionHandlerController.java
+/usercode/sprithyme/src/main/java/com/example/thymeleaf/config/SecurityConfiguration.java
